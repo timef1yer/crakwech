@@ -6,7 +6,7 @@ Human themselves are the weakest point to crack.
 Well, an interesting thing is that, many people want to do this because they want to spy on 
 their wife or girlfriend. 
 
-You fucking guys, what are your popurs?
+You fucking guys, what are your purposes?
 
 # data fetching
 Wechat store their chat databese in this folder(or it's childrens'): /data/data/mc.tensent.com(maybe I don't remember).
